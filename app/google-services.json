@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1047099008177",
+    "firebase_url": "https://semcut-65179.firebaseio.com",
+    "project_id": "semcut-65179",
+    "storage_bucket": "semcut-65179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047099008177:android:cd3877c34ddc862c",
+        "android_client_info": {
+          "package_name": "com.products.ammar.sem_cut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047099008177-484m9i5rojr9a80hhie9b21h2om9e373.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.products.ammar.sem_cut",
+            "certificate_hash": "b6dca1d85b01ca350ad02787c82e95b7a8bee997"
+          }
+        },
+        {
+          "client_id": "1047099008177-ubtje1pvbe2tlidptffagqvaor7ca9e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zT2acnMFtzhkTA_1YnnSlXcoba9DkLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047099008177-ubtje1pvbe2tlidptffagqvaor7ca9e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
